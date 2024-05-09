@@ -2,7 +2,7 @@
 
 ## Quick Usage
 install using   
-`pip install git+https://github.com/AlbinRaven/PII_PCI_Redactor.git#egg=myproject`  
+`pip install git+https://github.com/AlbinRaven/PII_PCI_Redactor.git#egg=PII_PCI_Redactor`  
   
 then import it to your code  
 ```
